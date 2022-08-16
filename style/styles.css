@@ -1,0 +1,14 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: #c5b9fa;
+}
+
+.rotate {
+    transform: rotate(90deg);
+    margin: 100px 0;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
